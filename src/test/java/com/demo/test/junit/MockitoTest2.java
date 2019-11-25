@@ -18,7 +18,6 @@ public class MockitoTest2 {
 
     @Test
     public void test(){
-
         // call add and clear method of mocked List
         mockList.add("123");
         mockList.clear();
